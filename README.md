@@ -1,4 +1,4 @@
-# Olá, eu sou o Talisson Barbosa 👋
+# Olá, eu sou o Talisson Barbosa alves 👋
 
 ### Full Stack Developer & Software Engineer
 🚀 Especializado no desenvolvimento de sistemas web, aplicações escaláveis, APIs e soluções digitais personalizadas.
